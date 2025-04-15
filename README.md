@@ -1,4 +1,4 @@
-# CodeAlpha_Bank
+# Programming_Cpp_Bank
 A C++ project is designed with an object-oriented
 approach, with classes for customers, accounts,
 transactions, and banking services. Features included
